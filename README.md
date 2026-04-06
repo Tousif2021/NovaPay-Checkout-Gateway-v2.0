@@ -210,7 +210,7 @@ MIT License. See `LICENSE` file.
 **Tousif** — Built as part of a frontend engineering portfolio project.
 
 - KTH Royal Institute of Technology, Stockholm
-- Computer Science & Engineering (Datateknik), Class of 2027
+- Computer Science (Datateknik)
 
 ---
 
